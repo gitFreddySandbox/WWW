@@ -1,7 +1,7 @@
 body{
     background: black;
 }
-div#Bcolor {
+div#Bkgcolor {
     background: red;
     color: white;
     height: 100%;
@@ -9,10 +9,10 @@ div#Bcolor {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-div#Bcolor2{
+div#navDiv{
     background: white;
     margin-left: 40px;
-    margin-top: 50px;
+    margin-top: 5px;
     color: black;
     height: 550px;
 
@@ -22,7 +22,13 @@ div#filler1{
     height: 5px;
     width: 100%;
     margin-left: 0px;
-    color: yellow;
     margin-top:-120px;
+}
+#banner{
+    margin-left: 40px;
+    margin-top: 0;
+    margin-right: 0;
+    width: auto;
+    
 }
 
