@@ -1,0 +1,19 @@
+body {
+    background: #fcf8e3;
+    top: 50px;
+
+}
+
+.col-lg-1 {
+    border: 1px red solid;
+    background: red;
+    height: 700px;
+    width: 50px;
+
+}
+.col-lg-11 {
+    border: 1px black solid;
+    background: white;
+    height: 100%;
+
+}
